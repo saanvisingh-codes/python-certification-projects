@@ -4,6 +4,7 @@ This repository contains my Python projects completed during the freeCodeCamp Py
 
 ## 🏆 Certification
 - freeCodeCamp- https://www.freecodecamp.org/certification/fcc-d750223a-7bf2-489a-a3fa-7acd156bf28a/python-v9
+- microsoft linkedin generative AI-https://www.linkedin.com/learning/certificates/d8229167808a76fd8b781431eae1679e4e4d5a1f654cfcf2af5af95edcd1edd8?trk=share_certificate
 
 ## 📂 Projects
 - Budget App
